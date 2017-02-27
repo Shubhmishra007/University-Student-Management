@@ -16,14 +16,20 @@ Overview
 University want to store and retrieve data about different college students attached with university  And also want to store detail about student who are staying in hostel.
 
 Goals
+
 1 Add Collages In university
+
 2 Add Courses in Colleges and course wise maximum available seat
+
 3 Add head and faculty in each college
+
 4 Add one admin per college who can add/access her/his college data
+
 5 Admin can make other data entry  operator under his authority
 
 6 dd hostel in university, and number of seat available for each collage student course wise
 7 add hostel warden and chief warden
+
 8 Give admission to student in Colleges based on their last year result and give them roll number and enrollment number
 9 After student get admission in college give them admission in hostel if student is eligible for hostel(minimum distance required from college )
 10 generate Result of student Based on their internal and external exams as per rule of university
