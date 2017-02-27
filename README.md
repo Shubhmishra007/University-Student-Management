@@ -27,18 +27,29 @@ Goals
 
 5 Admin can make other data entry  operator under his authority
 
-6 dd hostel in university, and number of seat available for each collage student course wise
+6 add hostel in university, and number of seat available for each collage student course wise
+
 7 add hostel warden and chief warden
 
+
 8 Give admission to student in Colleges based on their last year result and give them roll number and enrollment number
+
 9 After student get admission in college give them admission in hostel if student is eligible for hostel(minimum distance required from college )
+
 10 generate Result of student Based on their internal and external exams as per rule of university
+
 11 create new roll number of students for new semester for each courses available in collage(remove blocked student)
+
 12 Display big report that display all college students details with their course detail.and report also include data that how much seats are occupied and how much are free.
+
 13 First display the collage name and after it user input collage reference and display data of that particular college.
+
 14 Display data about hostels like how much hostel rooms are occupied, how much are free. College wise student list got admission in hostel.
+
 15 Hostel free room management if some rooms are free and some other courses allocated rooms are full and there are still some student waiting then give them admission in free rooms.
+
 16 Also maintain attendance of students
+
 17 Additional future can be added like Notice board that shows time table ,exam schedule other special events extra
 
 Specifications
